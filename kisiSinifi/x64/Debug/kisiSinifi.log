@@ -1,0 +1,4 @@
+﻿  kisiSinifi.cpp
+C:\Users\User\Desktop\Okul\C++\örnekler\kisiSinifi\sinif.h(85,42): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\User\Desktop\Okul\C++\örnekler\kisiSinifi\kisiSinifi.cpp(11,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  kisiSinifi.vcxproj -> C:\Users\User\Desktop\Okul\C++\örnekler\kisiSinifi\x64\Debug\kisiSinifi.exe
