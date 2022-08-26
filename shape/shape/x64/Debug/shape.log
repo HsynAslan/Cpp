@@ -1,0 +1,23 @@
+﻿  shape.cpp
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7): error C2259: 'Rectangle': Soyut sınıfın örneği oluşturulamaz
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.h(40): message : 'Rectangle' bildirimine bakın
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7): message : şu üyeler nedeniyle:
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7): message : 'void Shape::calculatePerimeter(void)' : soyut
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.h(15): message : 'Shape::calculatePerimeter' bildirimine bakın
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7,32): error C2259: 'Rectangle': Soyut sınıfın örneği oluşturulamaz
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.h(40): message : 'Rectangle' bildirimine bakın
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7,32): message : şu üyeler nedeniyle:
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7,32): message : 'void Shape::calculatePerimeter(void)' : soyut
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.h(15): message : 'Shape::calculatePerimeter' bildirimine bakın
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7): error C2259: 'Circle': Soyut sınıfın örneği oluşturulamaz
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.h(19): message : 'Circle' bildirimine bakın
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7): message : şu üyeler nedeniyle:
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7): message : 'void Shape::calculatePerimeter(void)' : soyut
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.h(15): message : 'Shape::calculatePerimeter' bildirimine bakın
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7,99): error C2259: 'Circle': Soyut sınıfın örneği oluşturulamaz
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.h(19): message : 'Circle' bildirimine bakın
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7,99): message : şu üyeler nedeniyle:
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(7,99): message : 'void Shape::calculatePerimeter(void)' : soyut
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.h(15): message : 'Shape::calculatePerimeter' bildirimine bakın
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.cpp(12,12): error C2039: 'calculatePerimater': bir 'Shape' üyesi değil
+C:\Users\User\Desktop\Okul\C++ oop\shape\shape\shape.h(5): message : 'Shape' bildirimine bakın
