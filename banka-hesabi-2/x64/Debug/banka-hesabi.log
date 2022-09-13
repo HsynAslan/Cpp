@@ -1,0 +1,3 @@
+﻿  banka-hesabi.cpp
+C:\Users\User\Desktop\Okul\C++ oop\shape\banka-hesabi\banka-hesabi.h(21,40): warning C4244: 'return': 'const float' - 'int' dönüşümü; veri kaybı olabilir
+  banka-hesabi.vcxproj -> C:\Users\User\Desktop\Okul\C++ oop\shape\banka-hesabi\x64\Debug\banka-hesabi.exe
